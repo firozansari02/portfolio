@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e4d6eca.css",
+    "main.js": "/static/js/main.aeb411e7.js",
+    "static/media/1.pdf": "/static/media/1.8166db7edc259452e880.pdf",
+    "static/media/profile3.png": "/static/media/profile3.b1ef9b87d4f4b86e3420.png",
+    "static/media/6.jpg": "/static/media/6.8563fd0993326956687c.jpg",
+    "static/media/3.jpg": "/static/media/3.0802175c0c781c285569.jpg",
+    "static/media/1.jpg": "/static/media/1.1dbf8778446bb88d91be.jpg",
+    "static/media/2.jpg": "/static/media/2.ae6365cc8d1ec1a1eff1.jpg",
+    "static/media/profile3.jpg": "/static/media/profile3.062edf24a7c15acfff0d.jpg",
+    "static/media/4.jpg": "/static/media/4.390717bc1e29195e3435.jpg",
+    "static/media/5.jpg": "/static/media/5.77929432959a7d82143c.jpg",
+    "static/media/meghalaya.jpg": "/static/media/meghalaya.7875508058ff829c24c3.jpg",
+    "static/media/goa.jpg": "/static/media/goa.2619bc23b1a731d2ee8f.jpg",
+    "static/media/thailand.jpg": "/static/media/thailand.a5c32a0e82699c31745e.jpg",
+    "index.html": "/index.html",
+    "main.3e4d6eca.css.map": "/static/css/main.3e4d6eca.css.map",
+    "main.aeb411e7.js.map": "/static/js/main.aeb411e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e4d6eca.css",
+    "static/js/main.aeb411e7.js"
+  ]
+}
